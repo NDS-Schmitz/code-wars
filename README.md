@@ -1,2 +1,2 @@
 # code-wars
-//These are the daily code wars challenges that I push. (I do one every day and push it to github. I commit myself to writing code everyday! 
+I am committed to writing code everyday to push myself and learn. The coding challenges that I do, I will push here to prove that I write code every day!
