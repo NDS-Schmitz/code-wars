@@ -7,7 +7,7 @@
 // 4 --> 0 (because 4 is already a one-digit number)
 
 function persistence(num) {
-  var times = 0;
+  let times = 0;
 
   num = num.toString();
 
